@@ -1,0 +1,46 @@
+%%     10 ns    Log    INFO      in Test25,               i = 0
+%%     10 ns    Log    INFO      in Test25,               i = 1
+%%     10 ns    Log    INFO      in Test25,               i = 2
+%%     10 ns    Log    INFO      in Test25,               i = 3
+%%     10 ns    Log    INFO      in Test25,               i = 4
+%%     10 ns    Log    INFO      in Test25,               i = 5
+%%     10 ns    Log    INFO      in Test25,               i = 6
+%%     10 ns    Log    INFO      in Test25,               i = 7
+%%     10 ns    Log    INFO      in Test25,               i = 8
+%%     10 ns    Log    INFO      in Test25,               i = 9
+%%     10 ns    Log    INFO      in Test25,               i = 10
+%%     10 ns    Log    INFO      in Test25,               i = 11
+%%     10 ns    Log    INFO      in Test25,               i = 12
+%%     10 ns    Log    INFO      in Test25,               i = 13
+%%     10 ns    Log    INFO      in Test25,               i = 14
+%%     10 ns    Log    INFO      in Test25,               i = 15
+%%     10 ns    Alert  ERROR     in Test25: Coverage,     CoveragePkg.ICover: Value (16) is in an illegal bin.
+%%     10 ns    Log    INFO      in Test25,               i = 16
+%%     10 ns    Alert  ERROR     in Test25: Coverage,     CoveragePkg.ICover: Value (17) is in an illegal bin.
+%%     10 ns    Log    INFO      in Test25,               i = 17
+%%     10 ns    Alert  ERROR     in Test25: Coverage,     CoveragePkg.ICover: Value (18) is in an illegal bin.
+%%     10 ns    Log    INFO      in Test25,               i = 18
+%%     10 ns    Alert  ERROR     in Test25: Coverage,     CoveragePkg.ICover: Value (19) is in an illegal bin.
+%%     10 ns    Log    INFO      in Test25,               i = 19
+%%     10 ns    Alert  ERROR     in Test25: Coverage,     CoveragePkg.ICover: Value (20) is in an illegal bin.
+%%     10 ns    Log    INFO      in Test25,               i = 20
+%%     10 ns    Alert  ERROR     in Test25: Coverage,     CoveragePkg.ICover: Value (21) is in an illegal bin.
+%%     10 ns    Log    INFO      in Test25,               i = 21
+%%     10 ns    Alert  ERROR     in Test25: Coverage,     CoveragePkg.ICover: Value (22) is in an illegal bin.
+%%     10 ns    Log    INFO      in Test25,               i = 22
+%%     10 ns    Alert  ERROR     in Test25: Coverage,     CoveragePkg.ICover: Value (23) is in an illegal bin.
+%%     10 ns    Log    INFO      in Test25,               i = 23
+%%     20 ns    Log    INFO      in Test25,               So lan chay: 24
+%% WriteBin: Coverage
+%% Bin:(0)   Count = 1  AtLeast = 1
+%% Bin:(1)   Count = 1  AtLeast = 1
+%% Bin:(2)   Count = 1  AtLeast = 1
+%% Bin:(3)   Count = 1  AtLeast = 1
+%% Bin:(4)   Count = 1  AtLeast = 1
+%% Bin:(5)   Count = 1  AtLeast = 1
+%% Bin:(6)   Count = 1  AtLeast = 1
+%% Bin:(7)   Count = 1  AtLeast = 1
+%% Illegal Bin:(16 to 23)   Count = 8  AtLeast = 0
+
+%% WriteCovHoles: Coverage
+

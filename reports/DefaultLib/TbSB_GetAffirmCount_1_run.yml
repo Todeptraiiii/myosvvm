@@ -1,0 +1,25 @@
+Version: "2024.09"
+TestCaseName: "TbSB_GetAffirmCount_1"
+TestSuiteName: "DefaultLib"
+BuildName: "coverage_lib_build_one"
+Generics:            {}
+TestSuiteDirectory: "reports/DefaultLib"
+RequirementsYamlFile: ""
+AlertYamlFile: "reports/DefaultLib/TbSB_GetAffirmCount_1_alerts.yml"
+CovYamlFile: ""
+ScoreboardDict:
+  int: "reports/DefaultLib/TbSB_GetAffirmCount_1_sb_int.yml"
+TranscriptFiles:
+  - "results/DefaultLib/TbSB_GetAffirmCount_1.log"
+TestCaseFileName: "TbSB_GetAffirmCount_1"
+GenericNames: ""
+OsvvmSettingsInfo:
+  BaseDirectory:        ""
+  ReportsSubdirectory:  "reports"
+  SimulationLogFile: "logs/QuestaSim-2023.2/coverage_lib_build_one.log"
+  SimulationHtmlLogFile: "logs/QuestaSim-2023.2/coverage_lib_build_one_log.html"
+  RequirementsSubdirectory: ""
+  CoverageSubdirectory: ""
+  Report2CssFiles:
+    - "reports/CssOsvvmStyle.css"
+  Report2PngFile:  "reports/OsvvmLogo.png"

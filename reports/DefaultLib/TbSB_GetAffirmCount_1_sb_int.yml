@@ -1,0 +1,11 @@
+Version: "1.1"
+TestCase: "TbSB_GetAffirmCount_1"
+Scoreboards: 
+  - Name:         "SB"
+    ParentName:   "OSVVM"
+    ItemCount:    1
+    ErrorCount:   0
+    ItemsChecked: 1
+    ItemsPopped:  1
+    ItemsDropped: 0
+    FifoCount: 0

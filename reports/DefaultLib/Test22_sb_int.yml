@@ -1,0 +1,11 @@
+Version: "1.1"
+TestCase: "Test22"
+Scoreboards: 
+  - Name:         "SB1"
+    ParentName:   "TB"
+    ItemCount:    5
+    ErrorCount:   0
+    ItemsChecked: 5
+    ItemsPopped:  5
+    ItemsDropped: 0
+    FifoCount: 0

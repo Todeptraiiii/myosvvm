@@ -1,0 +1,24 @@
+Version: "2024.09"
+TestCaseName: "Test30"
+TestSuiteName: "DefaultLib"
+BuildName: "coverage_lib_build_one"
+Generics:            {}
+TestSuiteDirectory: "reports/DefaultLib"
+RequirementsYamlFile: ""
+AlertYamlFile: "reports/DefaultLib/Test30_alerts.yml"
+CovYamlFile: "reports/DefaultLib/Test30_cov.yml"
+ScoreboardDict:            {}
+TranscriptFiles:
+  - "results/DefaultLib/Test30.log"
+TestCaseFileName: "Test30"
+GenericNames: ""
+OsvvmSettingsInfo:
+  BaseDirectory:        ""
+  ReportsSubdirectory:  "reports"
+  SimulationLogFile: "logs/QuestaSim-2023.2/coverage_lib_build_one.log"
+  SimulationHtmlLogFile: "logs/QuestaSim-2023.2/coverage_lib_build_one_log.html"
+  RequirementsSubdirectory: ""
+  CoverageSubdirectory: ""
+  Report2CssFiles:
+    - "reports/CssOsvvmStyle.css"
+  Report2PngFile:  "reports/OsvvmLogo.png"

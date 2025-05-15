@@ -1,0 +1,9 @@
+%%      0 ns    Log    ALWAYS    in TB,        Push :A
+%%      0 ns    Log    ALWAYS    in TB,        Push :B
+%%      0 ns    Log    ALWAYS    in TB,        Push :C
+%%      0 ns    Log    ALWAYS    in TB,        Push :D
+%%     10 ns    Log    PASSED    in TB: SB,    Received: 11   Item Number: 2
+%%     10 ns    Log    ALWAYS    in TB,        FindAndDelete :B
+%%     10 ns    Log    PASSED    in TB: SB,    Received: 10   Item Number: 1
+%%     10 ns    Log    PASSED    in TB: SB,    Received: 12   Item Number: 3
+%%     10 ns    Log    ALWAYS    in TB,        So gia tri trong fifo: 1

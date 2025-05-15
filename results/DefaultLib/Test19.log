@@ -1,0 +1,4 @@
+%%     10 ns    Log    ALWAYS    in SB,        So gia tri trong fifo: 4
+%%     20 ns    Log    PASSED    in SB,        Flush up to Received: 12
+%%     20 ns    Log    ALWAYS    in SB,        So gia tri trong fifo sau khi tim va xoa: 1
+%%     30 ns    Log    PASSED    in SB,        Received: 13   Item Number: 4

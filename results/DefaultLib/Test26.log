@@ -1,0 +1,19 @@
+%%     10 ns    Log    INFO      in Test26,               i = 0
+%%     10 ns    Log    INFO      in Test26,               i = 3
+%%     10 ns    Log    INFO      in Test26,               i = 8
+%%     10 ns    Log    INFO      in Test26,               i = 7
+%%     10 ns    Log    INFO      in Test26,               i = 1
+%%     10 ns    Log    INFO      in Test26,               i = 1
+%%     10 ns    Log    INFO      in Test26,               i = 4
+%%     10 ns    Log    INFO      in Test26,               i = 7
+%%     10 ns    Log    INFO      in Test26,               i = 2
+%%     10 ns    Log    INFO      in Test26,               i = 1
+%%     10 ns    Log    INFO      in Test26,               CovTarget = 9.000000e+01
+%% WriteBin: Coverage
+%% Bin:(0 to 1)   Count = 4  AtLeast = 4
+%% Bin:(2 to 4)   Count = 3  AtLeast = 3
+%% Bin:(5 to 7)   Count = 2  AtLeast = 2
+%% Bin:(8 to 9)   Count = 1  AtLeast = 1
+
+%% WriteCovHoles: Coverage
+

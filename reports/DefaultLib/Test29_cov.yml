@@ -1,0 +1,48 @@
+Version: "1.0"
+Coverage: 0.00
+Settings: 
+  WritePassFail: 0
+Models: 
+  - Name: "Coverage"
+    TestCases: 
+      - "Test29"
+    Coverage: 0.00
+    Settings: 
+      CovWeight: 1
+      Goal: 100.0
+      WeightMode: "REMAIN"
+      Seeds: [156780784, 1892127542]
+      CountMode: "COUNT_ALL"
+      IllegalMode: "ILLEGAL_ON"
+      Threshold: 45.0
+      ThresholdEnable: "FALSE"
+      TotalCovCount: 0
+      TotalCovGoal: 3
+    BinInfo: 
+      Dimensions: 1
+      FieldNames: 
+        - "Bin1"
+      NumBins: 3
+    Bins: 
+      - Name: ""
+        Type: "COUNT"
+        Range: 
+          - {Min: 0, Max: 1}
+        Count: 0
+        AtLeast: 1
+        PercentCov: 0.0000
+      - Name: ""
+        Type: "COUNT"
+        Range: 
+          - {Min: 2, Max: 4}
+        Count: 0
+        AtLeast: 1
+        PercentCov: 0.0000
+      - Name: ""
+        Type: "COUNT"
+        Range: 
+          - {Min: 0, Max: 4}
+        Count: 0
+        AtLeast: 1
+        PercentCov: 0.0000
+

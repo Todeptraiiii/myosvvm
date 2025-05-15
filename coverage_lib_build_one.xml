@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites 
+   name="coverage_lib_build_one"
+   timestamp="2025-05-14T10:53:19+07:00"
+   time="32.613"
+   tests="1"
+   failures="1"
+   errors="0"
+   skipped="0"
+>
+<properties> 
+  <property name="OsvvmVersion" value="2024.09" /> 
+  <property name="Simulator" value="QuestaSim -gui" /> 
+  <property name="SimulatorVersion" value="2023.2" /> 
+</properties> 
+<testsuite 
+   name="DefaultLib"
+   time="23.692"
+   tests="1"
+   failures="1"
+   errors="0"
+   skipped="0"
+>
+<testcase 
+   name="Test35"
+   classname="DefaultLib"
+   assertions="0"
+   time="0"
+>
+<failure message="Test did not run">Test did not run</failure>
+</testcase>
+</testsuite>
+</testsuites>

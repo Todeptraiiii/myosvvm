@@ -1,0 +1,9 @@
+%%     10 ns    Log    PASSED    in SB,        Received: 0   Item Number: 1
+%%     10 ns    Log    PASSED    in SB,        Received: 1   Item Number: 2
+%%     10 ns    Log    PASSED    in SB,        Received: 2   Item Number: 3
+%%     10 ns    Log    PASSED    in SB,        Received: 3   Item Number: 4
+%%     10 ns    Log    PASSED    in SB,        Received: 4   Item Number: 5
+%%     10 ns    Alert  FAILURE   in SB,        Scoreboard Empty during Check   Received: 5
+
+%% Alert Stop Count on FAILURE reached in SB at 10 ns 
+%%     10 ns    DONE   FAILED   Test17_ScoreBoard  Total Error(s) = 1  Failures: 1  Errors: 0  Warnings: 0  Passed: 5  Affirmations Checked: 5
