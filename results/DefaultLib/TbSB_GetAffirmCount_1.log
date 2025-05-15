@@ -1,0 +1,3 @@
+%%      0 ns    Log    PASSED    in SB,        Received: 5   Item Number: 1
+%%      0 ns    Log    ALWAYS    in Default,   GetAffirmCount = 1
+%%      0 ns    Log    PASSED    in Default,   GetAffirmCount = 1

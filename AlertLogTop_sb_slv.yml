@@ -1,0 +1,35 @@
+Version: "1.1"
+TestCase: "AlertLogTop"
+Scoreboards: 
+  - Name:         "SB0"
+    ParentName:   "Test30"
+    ItemCount:    23
+    ErrorCount:   1
+    ItemsChecked: 1
+    ItemsPopped:  1
+    ItemsDropped: 0
+    FifoCount: 22
+  - Name:         "SB1"
+    ParentName:   "Test30"
+    ItemCount:    25
+    ErrorCount:   1
+    ItemsChecked: 1
+    ItemsPopped:  1
+    ItemsDropped: 0
+    FifoCount: 24
+  - Name:         "SB2"
+    ParentName:   "Test30"
+    ItemCount:    29
+    ErrorCount:   2
+    ItemsChecked: 2
+    ItemsPopped:  2
+    ItemsDropped: 0
+    FifoCount: 27
+  - Name:         "SB3"
+    ParentName:   "Test30"
+    ItemCount:    23
+    ErrorCount:   1
+    ItemsChecked: 1
+    ItemsPopped:  1
+    ItemsDropped: 0
+    FifoCount: 22

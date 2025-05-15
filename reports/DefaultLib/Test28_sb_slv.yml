@@ -1,0 +1,11 @@
+Version: "1.1"
+TestCase: "Test28"
+Scoreboards: 
+  - Name:         "Scoreboard"
+    ParentName:   "Test28"
+    ItemCount:    0
+    ErrorCount:   0
+    ItemsChecked: 0
+    ItemsPopped:  0
+    ItemsDropped: 0
+    FifoCount: 0

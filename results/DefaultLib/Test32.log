@@ -1,0 +1,9 @@
+%%      0 ns    Log    INFO      in Test32,    a(1) = 85
+%%      0 ns    Log    INFO      in Test32,    a(2) = 15
+%%      0 ns    Log    INFO      in Test32,    a(3) = 44
+%%      0 ns    Log    INFO      in Test32,    a(4) = 2
+%%     10 ns    Log    INFO      in Test32,    b(1) = 91
+%%     10 ns    Log    INFO      in Test32,    b(2) = 77
+%%     10 ns    Log    INFO      in Test32,    b(3) = 58
+%%     10 ns    Log    INFO      in Test32,    b(4) = 36
+%%    110 ns    Log    PASSED    in Test32,    a /= b Received : (85,15,44,2)

@@ -1,0 +1,3 @@
+REQ001 ; Frame length 
+REQ002 ; CRC correct
+REQ003 ; Payload not all zero

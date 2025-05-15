@@ -1,0 +1,30 @@
+Version: "2024.09"
+Date: 2025-05-14T10:53:19+07:00
+TestSuites: 
+  - Name: DefaultLib
+    TestCases:
+      - TestCaseName: "Test35"
+        TestCaseFileName: "Test35"
+        Generics:            {}
+        ElapsedTime: 23.352
+    ElapsedTime: 23.692
+BuildInfo:
+  StartTime:            2025-05-14T10:53:19+07:00
+  FinishTime:           2025-05-14T10:53:52+07:00
+  Elapsed:              32.613
+  Simulator:            "QuestaSim -gui"
+  SimulatorVersion:     "2023.2"
+  OsvvmVersion:         "2024.09"
+  BuildErrorCode:       0
+  AnalyzeErrorCount:    2
+  SimulateErrorCount:   0
+OsvvmSettingsInfo:
+  BaseDirectory:        ""
+  ReportsSubdirectory:  "reports"
+  SimulationLogFile: "logs/QuestaSim-2023.2/coverage_lib_build_one.log"
+  SimulationHtmlLogFile: "logs/QuestaSim-2023.2/coverage_lib_build_one_log.html"
+  RequirementsSubdirectory: ""
+  CoverageSubdirectory: ""
+  Report2CssFiles:
+    - "reports/CssOsvvmStyle.css"
+  Report2PngFile:  "reports/OsvvmLogo.png"

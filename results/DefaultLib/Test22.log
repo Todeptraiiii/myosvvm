@@ -1,0 +1,11 @@
+%%      0 ns    Log    ALWAYS    in TB,        Push xen ke 2 tag
+%%      0 ns    Log    ALWAYS    in TB,        Push :D Tag: F2
+%%      0 ns    Log    ALWAYS    in TB,        Push :B Tag: F1
+%%      0 ns    Log    ALWAYS    in TB,        Push :E Tag: F2
+%%      0 ns    Log    ALWAYS    in TB,        Push :C Tag: F1
+%%     10 ns    Log    PASSED    in TB: SB1,   Received: 10   Tag: F1   Item Number: 1
+%%     10 ns    Log    PASSED    in TB: SB1,   Received: 11   Tag: F1   Item Number: 3
+%%     10 ns    Log    PASSED    in TB: SB1,   Received: 13   Tag: F2   Item Number: 2
+%%     10 ns    Log    PASSED    in TB: SB1,   Received: 14   Tag: F2   Item Number: 4
+%%     10 ns    Log    PASSED    in TB: SB1,   Received: 12   Tag: F1   Item Number: 5
+%%     10 ns    Log    ALWAYS    in TB,        So gia tri trong fifo: 0

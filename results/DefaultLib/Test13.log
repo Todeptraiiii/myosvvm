@@ -1,0 +1,11 @@
+%%      0 ns    Log    DEBUG     in TX,        TX DEBUG 0
+%%     10 ns    Log    DEBUG     in TX,        TX DEBUG 1
+%%     20 ns    Log    DEBUG     in TX,        TX DEBUG 2
+%%     30 ns    Log    DEBUG     in TX,        TX DEBUG 3
+%%     40 ns    Log    DEBUG     in TX,        TX DEBUG 4
+%%     50 ns    Log    INFO      in RX,        RX INFO 0
+%%     50 ns    Log    INFO      in TX,        TX INFO 0
+%%     60 ns    Log    INFO      in RX,        RX INFO 1
+%%     60 ns    Log    INFO      in TX,        TX INFO 1
+%%     70 ns    Log    INFO      in RX,        RX INFO 2
+%%     70 ns    Log    INFO      in TX,        TX INFO 2

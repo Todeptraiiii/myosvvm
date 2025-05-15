@@ -1,0 +1,11 @@
+Version: "1.1"
+TestCase: "Test19"
+Scoreboards: 
+  - Name:         "SB"
+    ParentName:   "OSVVM"
+    ItemCount:    4
+    ErrorCount:   0
+    ItemsChecked: 1
+    ItemsPopped:  1
+    ItemsDropped: 3
+    FifoCount: 0
